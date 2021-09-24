@@ -1,4 +1,4 @@
-# socialrepeat-backend
+# backend
 
 ---
 
